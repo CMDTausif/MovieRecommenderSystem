@@ -9,3 +9,6 @@ Dataset Link- https://www.kaggle.com/datasets/karrrimba/movie-metadatacsv
 1. Numpy
 2. Pandas
 3. Streamlit
+
+## Platform (for model deployment)
+* Heroku(PAAS)
