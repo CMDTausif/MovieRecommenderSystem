@@ -12,3 +12,7 @@ Dataset Link- https://www.kaggle.com/datasets/karrrimba/movie-metadatacsv
 
 ## Platform (for model deployment)
 * Heroku(PAAS)
+
+## Heroku Web APP link-
+https://mrs-tausif.herokuapp.com/
+
